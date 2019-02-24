@@ -5,6 +5,8 @@
     margin-right: auto;
     height: 500px;
     width: 500px;
+    position: relative;
+    cursor: pointer;
 }
 
 .row{
@@ -115,7 +117,7 @@
 .triangle .line-2{
     transform: translate(-50%,-50%) rotate(90deg);
     top: 50%;
-    left: 40%;
+    left: 24%;
     width: 350px;
     height: 60px;
 }
